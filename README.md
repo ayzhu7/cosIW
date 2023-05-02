@@ -11,3 +11,5 @@ Once these two values are fixed, to run the file, open terminal and type the lin
 python3 shortened_game.py
 
 The output is an array with 2 values, where the first value is the average score per trick for the random agent, and the second value is the average score per trick for the Monte Carlo agent.
+
+All of the code is my own work, except for the package that I used to import the cards.
